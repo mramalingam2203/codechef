@@ -52,3 +52,10 @@ func main() {
   }
   return
 }
+
+
+func main()  {
+	T,A:= readInput()
+	
+
+}
